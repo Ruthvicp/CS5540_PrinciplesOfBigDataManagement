@@ -27,5 +27,9 @@ Collected tweets using tweetpy and store them into a text file
 ### 4. Project Demo
 
 
+### 5. Project report and procedure can be found at 
+
+https://github.com/Ruthvicp/CS5540_PrinciplesOfBigDataManagement/blob/master/Phase2/Phase2_Report_RPMGZ.pdf
+
 
 
