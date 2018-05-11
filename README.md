@@ -16,7 +16,7 @@ Collected tweets using tweetpy and store them into a text file
 
 ### 3. Apache Zeppelin to visualize the results
 
-####Apache – Zeppelin Installation
+#### Apache – Zeppelin Installation
 
 * Download the binary package with “all” interpreters and extract it in local.
 
