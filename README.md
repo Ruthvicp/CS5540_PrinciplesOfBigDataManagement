@@ -26,6 +26,7 @@ Collected tweets using tweetpy and store them into a text file
 
 ### 4. Project Demo
 
+https://youtu.be/-MdhgmMMEiw
 
 ### 5. Project report and procedure can be found at 
 
